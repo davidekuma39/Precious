@@ -1,0 +1,18 @@
+<HTML>
+<body style=background-color:pink>
+<center><a href="cake.html">cake</a>  /   <a href="pizza.html">pizza</a>    /  <a href="pan cake.html">pan cake</a> /  <a href="shawama.html">shawama</a>   / <a href="rice.html">rice</a></center> 
+<TITLE> COOKING WORLD </TITLE>
+<H1 STYLE <p>WELCOME TO DANIEL AND mcdaniel COOKING WORLD</p></H1>
+<H2  STYLE<center> <p>WE COOK RICE,HOTDOG,CAKE,SHAWAMA,PAN CAKE,PIZZA,ICE CREAM,BURGER,CHICKEN, </center></p></H2>
+<h3><center>we are opening on sunday 13th june 2023<center></h3> 
+<h3>our food are at affordable price.</h3>
+<img src="rice.jpg">=1,500 a plate
+<img src="shawama.jpg">=2,000
+<h4> we also do give away price discount every sunday</h4>
+<img src="cake.jpg">=100
+<h5>if you buy from us you are save</h5>
+<h6>if you can come you will no more about us</h6>
+<img src="come cop.jpg">
+
+
+        
